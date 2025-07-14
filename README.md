@@ -1,7 +1,7 @@
 -  Hi there, I'm Om Dhale 👋
 Aspiring Software Engineer | Data Enthusiast | Network Security Learner | 
 About Me
-I’m an enthusiastic final-year student at LNCT, passionate about technology and innovation. With hands-on experience in network security, data analytics, and machine learning, I’m eager to contribute to impactful projects and collaborate with dynamic teams. I have a knack for research, problem-solving, and smart, efficient work.
+I am passionate about technology and innovation. With hands-on experience in network security, data analytics, and machine learning, I’m eager to contribute to impactful projects and collaborate with dynamic teams. I have a knack for research, problem-solving, and smart, efficient work.
 
 - 📫 Current Projects
 
